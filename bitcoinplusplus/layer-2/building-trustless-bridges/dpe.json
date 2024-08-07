@@ -33753,66 +33753,66 @@
     ],
     "paragraphs": [
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 3.4199998,
             "end": 291.6
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 291.68,
             "end": 895.58,
             "chapter": "Why create a bitcoin bridge?"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 895.58,
             "end": 984.22,
             "chapter": "Centralized custodian"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 986.64,
             "end": 1299,
             "chapter": "Federated multisig"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 1299.38,
             "end": 1572.94,
             "chapter": "Hashrate escrow"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 1573.32,
             "end": 1687.84,
             "chapter": "Collateralized custodian"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 1688.94,
             "end": 1901.26,
             "chapter": "Statechain"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 1902.44,
             "end": 2041.3,
             "chapter": "Lightning Network"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 2045.08,
             "end": 2109.78,
             "chapter": "L2 optimistic rollup"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 2112.62,
             "end": 2303.08,
             "chapter": "L2 validity rollup"
         },
         {
-            "speaker": "Speaker single_speaker",
+            "speaker": "John Light",
             "start": 2304.22,
             "end": 2499.881,
             "chapter": "Ingredients for a trustless bridge"
